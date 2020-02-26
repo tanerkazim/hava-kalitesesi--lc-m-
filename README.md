@@ -10,9 +10,9 @@ NOT: Esp8266 kullanımı tamamlanamadı, internet bağlantısı çalışmıyor.
 FreeRTOS kullanıldığı için AT komutları zamanlama konusunda uyumsuzluk yarattı.
 
 
-Kullanılan sensörler:
-DHT11 Arduino Sensör Modulü
-MQ-135 Hava Kalitesi Ölçüm Modülü
-Esp8266 Seri Wifi Modül
-LDR led diyot
+Kullanılan sensörler: 
+DHT11 Arduino Sensör Modulü,
+MQ-135 Hava Kalitesi Ölçüm Modülü,
+Esp8266 Seri Wifi Modül,
+LDR led diyot,
 HC-SR04 Arduino Ultrasonik Mesafe Sensörü  X3
